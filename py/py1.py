@@ -20,7 +20,6 @@ coin = Actor("coin" , (25,18))
 coin1 = Actor("coin1" , (200 , 0))
 mirio = Actor("mirio" , (520,450))
 ghlb = Actor("ghlb" , (25 , 102))
-over = Actor("over" , (480,350))
 chnc = "you must to collect 300 coins and 50 mushrooms to win"
 speed = 5
 score = 0
